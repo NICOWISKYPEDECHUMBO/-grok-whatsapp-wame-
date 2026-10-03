@@ -1,0 +1,5 @@
+{
+  "name": "grok-whatsapp-wame",
+  "version": "1.0.0",
+  "description": "Skill para preparar links wa.me e operar o WhatsApp pela interface disponível no Grok."
+}

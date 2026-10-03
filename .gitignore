@@ -1,0 +1,6 @@
+private/
+contacts/
+campaigns/
+*.log
+.env
+.env.*
